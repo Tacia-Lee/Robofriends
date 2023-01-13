@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cf4c276.css",
-    "main.js": "/static/js/main.0f16afd1.js",
-    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
-    "static/media/SuperMario256.ttf": "/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
-    "index.html": "/index.html",
-    "main.9cf4c276.css.map": "/static/css/main.9cf4c276.css.map",
-    "main.0f16afd1.js.map": "/static/js/main.0f16afd1.js.map",
-    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriends/static/css/main.c3217d43.css",
+    "main.js": "/robofriends/static/js/main.34aede90.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SuperMario256.ttf": "/robofriends/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.c3217d43.css.map": "/robofriends/static/css/main.c3217d43.css.map",
+    "main.34aede90.js.map": "/robofriends/static/js/main.34aede90.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cf4c276.css",
-    "static/js/main.0f16afd1.js"
+    "static/css/main.c3217d43.css",
+    "static/js/main.34aede90.js"
   ]
 }
